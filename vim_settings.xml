@@ -9,8 +9,8 @@
       <file name="D:/project/symphony/symphony-samples/symphony-dal-crestron-mock/src/main/java/com/avispl/symphony/dal/crestron/mock/config/SwaggerConfig.java" timestamp="1554820649381">
         <mark key="[" line="12" column="31" />
       </file>
-      <file name="D:/project/symphony/projects-java/symphony-commproxy/src/main/resources/app.properties" timestamp="1554813897055">
-        <mark key="[" line="67" column="43" />
+      <file name="D:/project/symphony/projects-java/symphony-commproxy/src/main/resources/app.properties" timestamp="1554821208103">
+        <mark key="[" line="7" column="27" />
         <mark key="]" line="16" column="52" />
         <mark key="." line="16" column="52" />
         <mark key="^" line="16" column="52" />
@@ -24,6 +24,7 @@
         <mark key="." line="52" column="30" />
         <mark key="^" line="52" column="30" />
       </file>
+      <file name="D:/project/practice/symphony/src/main/resources/commproxy_app.properties" timestamp="1554821352522" />
       <file name="D:/backup ubuntu/project/symphony-commproxy/src/main/resources/app.properties" timestamp="1554809303280">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
